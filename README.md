@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to MSM Website Design on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mccammonms/mccammonms.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This will be the site for MSM Website Design's use of Github for Wordpress website design respositories.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When committing changes to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in this  site, from the content in your Markdown files.
 
 ### Markdown
 
