@@ -1,6 +1,6 @@
-## Welcome to MSM Website Design on GitHub Pages
+## Welcome to McCammonms on GitHub Pages
 
-This will be the site for MSM Website Design's use of Github for Wordpress website design respositories.
+This will be the site for McCammonMs Wordpress website design respositories.
 
 When committing changes to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in this  site, from the content in your Markdown files.
 
